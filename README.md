@@ -20,3 +20,4 @@ La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta prac
 # Instrucciones
 ## Requisitos previos
 ### Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
+
