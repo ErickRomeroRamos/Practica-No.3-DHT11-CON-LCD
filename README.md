@@ -87,4 +87,5 @@ Colocar la temperatura y humedad dando doble click al sensor Ultrasonico
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
+![image](https://github.com/ErickRomeroRamos/Practica-No.3-DHT11-CON-LCD/assets/153964793/ab22e078-93a7-4cd3-a9d7-09381446d1f5)
 
